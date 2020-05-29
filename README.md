@@ -11,4 +11,4 @@ To run the experiments, follow the steps
 3 - Run some experimental script
 - python3 manage.py shell < experimental_scripts/SCRIPT_NAME.py
 
-Note: Inside each script there's already an user | patient defined, this may be required to change or created.
+Note: Inside each script there's already an user | patient defined, this may be required to change or create.
