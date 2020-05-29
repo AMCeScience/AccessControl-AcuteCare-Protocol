@@ -1,7 +1,8 @@
 # AccessControl-AcuteCare-Protocol
 Code for experiments simulation used in paper "AC-AC: Dynamic Revocable Access Control for Acute Care Teams to Access Medical Records"
 
-To run the experiments 
+To run the experiments, follow the steps
+
 1 - Install dependencies for Python3
 
 2 - Populate database, constants can be changed in fill_users.py
